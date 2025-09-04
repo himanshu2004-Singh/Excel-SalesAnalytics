@@ -24,8 +24,8 @@ Provide businesses with the ability to monitor, measure, and enhance sales perfo
 ## Finance Report  
 
 ### Project Objectives  
-1. Create Profit & Loss (P&L) reports by [Fiscal Year]https://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Fiscal%20Year.pdf andhttps://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Months.pdf
-2. Create Profit & Loss (P&L) reports by [Markets]https://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Markets.pdf  
+1. Create Profit & Loss (P&L) reports by [Fiscal Year](https://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and(https://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Months.pdf)
+2. Create Profit & Loss (P&L) reports by [Markets](https://github.com/himanshu2004-Singh/Excel-SalesAnalytics/blob/af51dc53f502e2e2a6a70c70c5caeff3e0ea5d77/P%26L%20Statement%20by%20Markets.pdf)  
 
 ### Purpose of Finance Analytics  
 Evaluate financial performance, support decision-making, and communicate results to stakeholders.  
